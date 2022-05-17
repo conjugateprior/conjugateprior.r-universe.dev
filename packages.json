@@ -1,0 +1,15 @@
+[
+    {
+        "package": "events",
+        "url": "https://github.com/conjugateprior/events",
+	"branch" : "cran"
+    },
+    {
+        "package": "twfy",
+        "url": "https://github.com/conjugateprior/twfy"
+    },
+    {
+        "package": "austin",
+        "url": "https://github.com/conjugateprior/events"
+    }
+]
