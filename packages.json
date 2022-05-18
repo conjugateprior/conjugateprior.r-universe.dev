@@ -11,5 +11,9 @@
     {
         "package": "austin",
         "url": "https://github.com/conjugateprior/austin"
+    },
+    {
+        "package": "cbn",
+        "url": "https://github.com/conjugateprior/cbn"
     }
 ]
